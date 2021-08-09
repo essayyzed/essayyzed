@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Header](https://raw.githubusercontent.com/essayyzed/essayyzed/master/readme_header.png "Header")](https://essayyzed.net/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/essayyzed/essayyzed/readme_header.png "Header")](https://some-url.dev/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/essayyzed/essayyzed/master/wave.gif" width="30px">
 
@@ -75,9 +74,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/essayyzed
+[2]: https://github.com/essayyzed
+[3]: https://www.linkedin.com/in/essayyzed/
 
 
 <!-- Resources -->
