@@ -50,11 +50,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to decompose the time series data?](https://zawster.wordpress.com/2020/05/05/how-to-decompose-the-time-series-data/)
-- [OpenCV Features of Contours](https://zawster.wordpress.com/2020/03/15/opencv-features-of-contours/)
-- [A gentle intro to White Noise](https://zawster.wordpress.com/2020/04/16/a-gentle-intro-to-white-noise/)
-- [Install and Configure Magento2 in Linux](https://zawster.wordpress.com/2018/09/29/install-and-configure-magento2/)
-- [Programming with ZeroMQ](https://zawster.wordpress.com/2019/09/12/programming-with-zeromq/)
+- [Differential Privacy — A Machine Learning’s Approach for Data Privacy](http://essayyzed.net/differential-privacy/)
+- [Analysis of HTTP/2 using Wireshark](http://essayyzed.net/analysis-of-http-2-using-wireshark/)
+- [Deploying HTTP\2 based Node.Js Server](http://essayyzed.net/deploying-http2-based-node-js-server/)
+- [HTTP\2 Getting Started](http://essayyzed.net/http2-getting-started/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
