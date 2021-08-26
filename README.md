@@ -1,6 +1,6 @@
 ### Hi there, I'm Asad Zaman - aka [essayyzed][website] 👋 ![Hits](https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=collabnix.github.io%2Fdockerlabs%2F)
 
-## An aspiring Geekwho loves to!
+## An aspiring Geek who loves to!
 - 🔭 read!
 - 🌱 write!
 - 👯 photography!
