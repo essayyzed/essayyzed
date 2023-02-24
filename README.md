@@ -1,4 +1,4 @@
-### Hi there, I'm Asad Zaman - aka [essayyzed][website] 👋 
+### Hi there, I'm Asad Zaman - aka [essayyzed.net][website] 👋 
 
 ## An aspiring Geek who loves to!
 - 🔭 read!
