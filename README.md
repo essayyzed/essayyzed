@@ -4,7 +4,7 @@
 - 🔭 read!
 - 🌱 write!
 - 👯 photography!
-- 🥅 Goals: In 2021 main focus on Final year project(FYP)! and after that looking for oppertunities.
+<!-- - 🥅 Goals: In 2021 main focus on Final year project(FYP)! and after that looking for oppertunities. -->
 
 ### Connect with me:
 
